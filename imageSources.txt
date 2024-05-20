@@ -1,0 +1,5 @@
+Elizabeth Tower Image = "https://static.toiimg.com/photo/101366699.cms"
+
+Location Image = "https://www.fijen.se/wordpress/wp-content/uploads/2013/02/Victoria-Tower-in-London-Map-UK.jpg"
+
+Bell Gif = "https://www.youtube.com/watch?app=desktop&v=wqslA_CKub8" (converted from here)

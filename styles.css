@@ -1,0 +1,41 @@
+body {
+	background-color: rgb(125,114,94);
+	color: Ivory;
+}
+h1 {text-align: center;
+	font-size: 32px;
+	font-family: verdana;
+}
+h2 {
+	text-align:center;
+	font-size: 32px;
+	font-family:verdana;
+}
+
+p {
+	text-align:center;
+	font-family:verdana;
+}
+
+ul {
+	font-family:verdana;
+}
+
+table,th,td {
+	text-align: center;
+	border: 1px solid rgb(0,49,83);
+}
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.container {
+	text-align: center;
+}
+
+ul.myUL {
+	display: inline-block;
+	text-align: left;
+}
